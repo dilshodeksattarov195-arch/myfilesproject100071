@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssecrypt",
+        "uuid": 334694,
+        "checksum": "6k2bk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
